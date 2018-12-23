@@ -1,0 +1,15 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "oss",
+  "license": "ISC",
+  "homepage": "https://oudarjya718.github.io/azaela_park",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
