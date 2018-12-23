@@ -1,0 +1,135 @@
+body {
+    /* background: #e5a9b2; */
+    /* background-image: "https://i.pinimg.com/originals/a3/69/f2/a369f2eef173555489746b2bb0f931e5.jpg"; */
+    font-family: "Nunito", sans-serif;
+}
+
+
+#discountImg {
+    background-image: url("https://images.unsplash.com/photo-1514313996915-89d3aff2b79e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1009&q=80");
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-size: auto; */
+}
+
+.jumbotron h1 {
+    color: rgba(226, 38, 148, 0.664);
+}
+
+.jumbotron p {
+    color: white;
+}
+
+#first {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHa9XIyd8aS5bP38n-HK-pEnDa7BW_xjUUi-WNPR5KWSe-I7oRA");
+    background-size: cover;
+}
+
+
+#second {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1V_h5SjTa8RzGSsuyFVMEl49gNWvlwvTbKoravz5qMU0X0tP1Lw");
+    background-size: cover;
+}
+
+#third {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGs9MpClVW-iQtlABy1wUf4SOnYB3Mm5tpAXHB9Mk6EB7-n_52");
+    background-size: cover;
+}
+
+
+#fourth {
+    background-image: url("https://cdn.xl.thumbs.canstockphoto.com/art-grunge-vintage-textured-background-with-different-color-patterns-gray-black-drawing_csp24634249.jpg");
+    background-size: cover;
+}
+/* 
+div.image {
+    content: url("https://i.pinimg.com/originals/1e/79/0d/1e790d720e3ab3803890338bfa61c7e8.png");
+} */
+
+
+.blurb h1 {
+    color: #662f3d;
+    font-weight: 1000;
+    font-size: 2.5rem;
+ }
+ 
+
+
+.blurb1 h2 {
+   color: #4c210f;
+   font-weight: 100;
+   font-size: 2.5rem;
+}
+
+
+.blurb2 h2 {
+    color: #e01447;
+    font-weight: 100;
+    font-size: 2.5rem;
+ }
+
+ .blurb3 h2 {
+    color: #1c0901;
+    font-weight: 100;
+    font-size: 2.5rem;
+ }
+ 
+ 
+
+.blurb p {
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+#mainNavbar .nav-link {
+    color: #ff6886;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 1.5rem;
+}
+
+#headingGroup span {
+    color: #EA1C2C;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+.navbar.scrolled {
+    background: #510714;
+    transition: background 500ms;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+    .blurb h2 {
+        font-size: 2rem;
+    }
+}
+
+
+
+
